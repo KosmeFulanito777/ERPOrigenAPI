@@ -1,0 +1,42 @@
+2026-05-07 16:12:28 [INFO] Intento 1 - Factura FAC-2343433343-2333
+2026-05-07 16:12:28 [INFO] Error en intento 1 El Folio ya existe
+2026-05-07 16:12:29 [INFO] Intento 2 - Factura FAC-2343433343-2333
+2026-05-07 16:12:29 [INFO] Error en intento 2 El Folio ya existe
+2026-05-07 16:12:30 [INFO] Intento 3 - Factura FAC-2343433343-2333
+2026-05-07 16:12:30 [INFO] Error en intento 3 El Folio ya existe
+2026-05-07 16:13:01 [INFO] Intento 1 - Factura FAC-22425435243-55453
+2026-05-07 16:13:01 [INFO] Error en intento 1 El Folio ya existe
+2026-05-07 16:13:02 [INFO] Intento 2 - Factura FAC-22425435243-55453
+2026-05-07 16:13:02 [INFO] Error en intento 2 El Folio ya existe
+2026-05-07 16:13:03 [INFO] Intento 3 - Factura FAC-22425435243-55453
+2026-05-07 16:13:03 [INFO] Error en intento 3 El Folio ya existe
+2026-05-07 16:14:01 [INFO] Intento 1 - Factura FAC-22425435243-55453
+2026-05-07 16:14:01 [INFO] Factura FAC-22425435243-55453 procesada correctamente
+2026-05-07 16:16:14 [INFO] Intento 1 - Cliente DSSSR900209W2A
+2026-05-07 16:16:14 [INFO] Cliente DSSSR900209W2A procesado correctamente
+2026-05-07 16:16:19 [INFO] Intento 1 - Cliente DSSSR900209W2A
+2026-05-07 16:16:19 [INFO] Error en intento 1 ClienteId
+2026-05-07 16:16:20 [INFO] Intento 2 - Cliente DSSSR900209W2A
+2026-05-07 16:16:21 [INFO] Error en intento 2 ClienteId
+2026-05-07 16:16:22 [INFO] Intento 3 - Cliente DSSSR900209W2A
+2026-05-07 16:16:22 [INFO] Error en intento 3 ClienteId
+2026-05-07 16:17:00 [INFO] Intento 1 - Asiento Contable 1
+2026-05-07 16:17:00 [INFO] Error en intento 1 AsientoId
+2026-05-07 16:17:01 [INFO] Intento 2 - Asiento Contable 1
+2026-05-07 16:17:01 [INFO] Error en intento 2 AsientoId
+2026-05-07 16:17:02 [INFO] Intento 3 - Asiento Contable 1
+2026-05-07 16:17:02 [INFO] Error en intento 3 AsientoId
+2026-05-07 16:17:26 [INFO] Intento 1 - Asiento Contable 1
+2026-05-07 16:17:26 [INFO] Error en intento 1 AsientoId
+2026-05-07 16:17:27 [INFO] Intento 2 - Asiento Contable 1
+2026-05-07 16:17:27 [INFO] Error en intento 2 AsientoId
+2026-05-07 16:17:28 [INFO] Intento 3 - Asiento Contable 1
+2026-05-07 16:17:28 [INFO] Error en intento 3 AsientoId
+2026-05-07 16:17:35 [INFO] Intento 1 - Asiento Contable 1
+2026-05-07 16:17:35 [INFO] Error en intento 1 AsientoId
+2026-05-07 16:17:36 [INFO] Intento 2 - Asiento Contable 1
+2026-05-07 16:17:36 [INFO] Error en intento 2 AsientoId
+2026-05-07 16:17:37 [INFO] Intento 3 - Asiento Contable 1
+2026-05-07 16:17:37 [INFO] Error en intento 3 AsientoId
+2026-05-07 16:17:46 [INFO] Intento 1 - Asiento Contable 2
+2026-05-07 16:17:47 [INFO] Asiento Contable 2 procesada correctamente
